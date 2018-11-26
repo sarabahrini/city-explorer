@@ -2,11 +2,11 @@
 =================================================
 
 ## Project Name
-
+city-explorer
 ### Author: Student/Group Name
-
+Sara Bahrini
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/sarabahrini/city-explorer)
 * [deployed site](http://xyz.com)
 
 ### Modules
